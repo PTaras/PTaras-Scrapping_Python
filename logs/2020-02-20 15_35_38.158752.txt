@@ -322,3 +322,9 @@
 [20.02.2020-17:45:08] INFO	:  Processing: https://www.instagram.com/podarki_handmade_volgodonsk
 [20.02.2020-17:45:33] INFO	:  Processing: https://www.instagram.com/reklama_rabotaet
 [20.02.2020-17:46:05] INFO	:  Processing: https://www.instagram.com/rabota.v.seti61
+[20.02.2020-17:46:39] INFO	:  Processing: https://www.instagram.com/_munira_essens_
+[20.02.2020-17:47:14] INFO	:  Processing: https://www.instagram.com/rabota.angarsk_38
+[20.02.2020-17:47:32] INFO	:  Processing: https://www.instagram.com/rabotaalmetyevsk
+[20.02.2020-17:47:52] INFO	:  Processing: https://www.instagram.com/rabota_v_rostove_61
+[20.02.2020-17:48:23] INFO	:  Processing: https://www.instagram.com/rabota_v_angarske
+[20.02.2020-17:48:45] INFO	:  Processing: https://www.instagram.com/hr_barnaul22
