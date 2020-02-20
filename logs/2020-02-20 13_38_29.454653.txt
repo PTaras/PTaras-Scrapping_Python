@@ -1,0 +1,13 @@
+[20.02.2020-13:38:29] INFO	:  Start
+[20.02.2020-13:38:29] INFO	:  Processing: https://www.instagram.com/rabota_kiev_ua
+[20.02.2020-13:38:55] INFO	:  Processing: https://www.instagram.com/good_work_dnipro
+[20.02.2020-13:39:31] INFO	:  Processing: https://www.instagram.com/rabota_minska
+[20.02.2020-13:39:51] INFO	:  Processing: https://www.instagram.com/jobs_in_minsk
+[20.02.2020-13:40:22] INFO	:  Processing: https://www.instagram.com/rabota_v__dnepre
+[20.02.2020-13:40:45] INFO	:  Processing: https://www.instagram.com/workinit_kharkiv
+[20.02.2020-13:41:22] INFO	:  Processing: https://www.instagram.com/rabota_v_kv
+[20.02.2020-13:41:40] INFO	:  Processing: https://www.instagram.com/24rabota_krsk
+[20.02.2020-13:41:59] INFO	:  Processing: https://www.instagram.com/kras.job
+[20.02.2020-13:42:31] INFO	:  Processing: https://www.instagram.com/vakansii_krasnoyarsk
+[20.02.2020-13:43:02] INFO	:  Processing: https://www.instagram.com/vakansii_v_krasnoyarske
+[20.02.2020-13:43:23] INFO	:  Processing: https://www.instagram.com/krasnoyarskrabota
