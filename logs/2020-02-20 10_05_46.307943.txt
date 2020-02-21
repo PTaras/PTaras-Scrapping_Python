@@ -1,5 +1,0 @@
-[20.02.2020-10:05:46] INFO	:  Start
-[20.02.2020-10:05:46] INFO	:  Processing: https://www.instagram.com/rabota_kiev_ua
-[20.02.2020-10:05:59] INFO	:  Processing: https://www.instagram.com/good_work_dnipro
-[20.02.2020-10:06:12] INFO	:  Processing: https://www.instagram.com/rabota_minska
-[20.02.2020-10:06:25] INFO	:  Processing: https://www.instagram.com/jobs_in_minsk

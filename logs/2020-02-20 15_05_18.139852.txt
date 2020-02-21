@@ -1,2 +1,0 @@
-[20.02.2020-15:05:18] INFO	:  Start
-[20.02.2020-15:05:18] INFO	:  Processing: https://www.instagram.com/rabota_kiev_ua
